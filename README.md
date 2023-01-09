@@ -1,4 +1,4 @@
-A duck duck go inspired search bar.
+A search bar inspired by duck duck go.
 
 🧑‍💻 Live demo here: https://duck-duck-go-style-search-bar.vercel.app/
 
